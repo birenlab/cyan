@@ -211,7 +211,7 @@ input[type="submit"]:hover {
 /* RESPONSIVE STYLING  */
 @media only screen and (max-width: 660px) {
   .wrapper {
-    background-color: #231a2d;
+/*     background-color: #231a2d; */
     width: 100%;
     height: 100vh;
     border-radius: 0px;
